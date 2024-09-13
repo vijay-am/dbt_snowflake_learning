@@ -1,2 +1,2 @@
 name: 'dbt_snowflake_learning'
-model-paths: ["models"]
+model-paths: ["sql_models"]
